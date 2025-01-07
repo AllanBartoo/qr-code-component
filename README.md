@@ -9,7 +9,7 @@ Your challenge is to build out this QR code component and get it looking as clos
 ### Links
 
 - Solution URL: https://github.com/AllanBartoo/qr-code-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://allanbartoo.github.io/qr-code-component
 
 ## My process
 
